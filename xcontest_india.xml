@@ -13,8 +13,26 @@ XC India 2015
 </p>
 <CONTENT for="/india/ranking-club-100plus/">
 <div>
-This category includes all pilots who have logged at least 1 flight over 100 km. 
-Ranking is given by the number of such flights. 
-In the case of equal number of flights over 100k the second aspect for ranking is the longest flight of pilot
+This category includes all pilots who have logged at least 1 flight over 100 km. Ranking is given by the number of such flights. In the case of equal number of flights over 100k the second aspect for ranking is the longest flight of pilot
+</div>
+</CONTENT>
+<CONTENT for="/india/ranking-pg-open/">
+<div>
+  Open category lists all ranked pilots with minimum 1 flight. The score is given by 6 best flights (any kind of glider). Please note the scoring  the final score will calculate only 2 best flights from a site. This means a pilot must attempt to fly atleast 3 sites ( two site are atleast 50kms apart from each other )to maximize the score.
+</div>
+</CONTENT>
+<CONTENT for="/india/ranking-sport/">
+<div>
+  All pilots with flights on max. sport paraglider <strong>(max.EN C/LTF C)</strong>. The score is given by 6 best flights. Please note the scoring  the final score will calculate only 2 best flights from a site. This means a pilot must attempt to fly atleast 3 sites ( two site are atleast 50kms apart from each other )to maximize the score.
+</div>
+</CONTENT>
+<CONTENT for="/india/ranking-standard/">
+<div>
+  All pilots with flights on max. sport paraglider <strong> (max. DHV 1-2, AFNOR/SHV Standard, CEN B)</strong>. The score is given by 6 best flights. Please note the scoring  the final score will calculate only 2 best flights from a site. This means a pilot must attempt to fly atleast 3 sites ( two site are atleast 50kms apart from each other )to maximize the score.
+</div>
+</CONTENT>
+<CONTENT for="/india/ranking-women/">
+<div>
+  All women with minimum 1 flight. The score is given by 6 best flights (any kind of glider). Please note the scoring  the final score will calculate only 2 best flights from a site. This means a pilot must attempt to fly atleast 3 sites ( two site are atleast 50kms apart from each other )to maximize the score.
 </div>
 </CONTENT>
