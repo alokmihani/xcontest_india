@@ -1,12 +1,20 @@
-<INC-CONTENTS for="http://www.xcontest.org" created="2012-11-03 22:45:00">
+<INC-CONTENTS for="http://www.xcontest.org" created="2007-09-07 13:26:42">>
 <CONTENT for="/india/" label="XC India 2015">
 <div>
 <p>
 Dear Pilot,
 </p>
 <p>
-Welcome to the Home Page
+Welcome to the Home Page of
 <strong>
-XC India 2015.
+XC India 2015
 </strong>
+, an online XC contest.
 </p>
+<CONTENT for="/india/ranking-club-100plus/">
+<div>
+This category includes all pilots who have logged at least 1 flight over 100 km. 
+Ranking is given by the number of such flights. 
+In the case of equal number of flights over 100k the second aspect for ranking is the longest flight of pilot
+</div>
+</CONTENT>
