@@ -11,6 +11,8 @@ XC India 2015
 </strong>
 , an online XC contest.
 </p>
+</div>
+</CONTENT>
 <CONTENT for="/india/ranking-club-100plus/">
 <div>
 This category includes all pilots who have logged at least 1 flight over 100 km. Ranking is given by the number of such flights. In the case of equal number of flights over 100k the second aspect for ranking is the longest flight of pilot
@@ -38,8 +40,6 @@ This category includes all pilots who have logged at least 1 flight over 100 km.
 </CONTENT>
 <CONTENT for="/india/rules/">
 <div>
-  <div>
-  <div>
     <h1>
       <span style="color: rgb(0,0,0);text-decoration: none;">1. General Information</span>
     </h1>
@@ -443,7 +443,5 @@ This category includes all pilots who have logged at least 1 flight over 100 km.
       <strong> <br/> <br/> </strong>
     </p>
   </div>
-</div>
-</div>
 </CONTENT>
 </INC-CONTENTS>
