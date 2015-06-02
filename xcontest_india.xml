@@ -20,22 +20,22 @@ This category includes all pilots who have logged at least 1 flight over 100 km.
 </CONTENT>
 <CONTENT for="/india/ranking-pg-open/">
 <div>
-  Open category lists all ranked pilots with minimum 1 flight. The score is given by 6 best flights (any kind of glider). Please note the scoring  the final score will calculate only 2 best flights from a site. This means a pilot must attempt to fly atleast 3 sites ( two site are atleast 50kms apart from each other )to maximize the score.
+  Open category lists all ranked pilots with minimum 1 flight. The score is given by 6 best flights (any kind of glider). Please note the scoring  the final score will calculate only 2 best flights from a site. This means a pilot must attempt to fly atleast 3 sites to maximize the score.  Two site must be  atleast 50kms apart from each other. 
 </div>
 </CONTENT>
 <CONTENT for="/india/ranking-sport/">
 <div>
-  All pilots with flights on max. sport paraglider <strong>(max.EN C/LTF C)</strong>. The score is given by 6 best flights. Please note the scoring  the final score will calculate only 2 best flights from a site. This means a pilot must attempt to fly atleast 3 sites ( two site are atleast 50kms apart from each other )to maximize the score.
+  All pilots with flights on max. sport paraglider <strong>(max.EN C/LTF C)</strong>. The score is given by 6 best flights. Please note the scoring  the final score will calculate only 2 best flights from a site. This means a pilot must attempt to fly atleast 3 sites to maximize the score.  Two site must be  atleast 50kms apart from each other.
 </div>
 </CONTENT>
 <CONTENT for="/india/ranking-standard/">
 <div>
-  All pilots with flights on max. sport paraglider <strong> (max. DHV 1-2, AFNOR/SHV Standard, CEN B)</strong>. The score is given by 6 best flights. Please note the scoring  the final score will calculate only 2 best flights from a site. This means a pilot must attempt to fly atleast 3 sites ( two site are atleast 50kms apart from each other )to maximize the score.
+  All pilots with flights on max. sport paraglider <strong> (max. DHV 1-2, AFNOR/SHV Standard, CEN B)</strong>. The score is given by 6 best flights. Please note the scoring  the final score will calculate only 2 best flights from a site. This means a pilot must attempt to fly atleast 3 sites to maximize the score.  Two site must be  atleast 50kms apart from each other.
 </div>
 </CONTENT>
 <CONTENT for="/india/ranking-women/">
 <div>
-  All women with minimum 1 flight. The score is given by 6 best flights (any kind of glider). Please note the scoring  the final score will calculate only 2 best flights from a site. This means a pilot must attempt to fly atleast 3 sites ( two site are atleast 50kms apart from each other )to maximize the score.
+  All women with minimum 1 flight. The score is given by 6 best flights (any kind of glider). Please note the scoring  the final score will calculate only 2 best flights from a site. This means a pilot must attempt to fly atleast 3 sites to maximize the score.  Two site must be  atleast 50kms apart from each other.
 </div>
 </CONTENT>
 <CONTENT for="/india/rules/">
@@ -131,20 +131,20 @@ This category includes all pilots who have logged at least 1 flight over 100 km.
     <h2>
       2.2 Competition Duration
     </h2>
+    <ul>
+    <li style="text-decoration: none;">  
     <p>
-      2.2.1 The XContest India [XC India] starts at 1st Jan . 2015
+      The XContest India [XC India] starts at 1st Jan . 2015
     </p>
+    </li>
+    <li style="text-decoration: none;">
     <p>
-      2.2.2 Competition end on 31st Dec 2015. Last day of submitting flights for the competition duration is 9th January 2016
+      Competition end on 31st Dec 2015. Last day of submitting flights for the competition duration is 9th January 2016
     </p>
-    <p>
-      <strong> <strong> <br/> </strong> </strong>
-    </p>
+    </li>
+    </ul>
     <p>
       Note: The 2016 season begins on 1st Jan 2016
-    </p>
-    <p>
-      <strong> <strong> <br/> </strong> </strong>
     </p>
     <h2>
       2.3 Area of Contest :
@@ -210,9 +210,6 @@ This category includes all pilots who have logged at least 1 flight over 100 km.
     <p>
       Every pilot must keep a personal backup of all his / her tracklog files uploaded to the XContest server until 1 calendar month after the flight has been submitted. Once a pilot has uploaded an IGC tracklog file to the XContest server it becomes the public property
     </p>
-    <p>
-      <strong> <strong> <br/> </strong> </strong>
-    </p>
     <h2>
       3.2 Deadline of flight submission
     </h2>
@@ -226,9 +223,6 @@ This category includes all pilots who have logged at least 1 flight over 100 km.
       Please note if you wish your flight to be considered for the World XContest then you will have to follow their deadlines. The deadline for uploading a flight for World XContest is 14 days after day of the flight. Flights which are claimed after the deadline will be rejected for World XContest
     </p>
     <h1>
-      <strong> <strong> <br/>
-        </strong>
-      </strong>
       <p>4 Classification </p>
     </h1>
     <h2>
@@ -236,9 +230,6 @@ This category includes all pilots who have logged at least 1 flight over 100 km.
     </h2>
     <p>
       After landing, the recorded tracklog should be examined to determine the scoring distance flown. Here the start point, up to 3 turnpoints and the finish point are to be positioned on the tracklog to provide the greatest possible distance. A flight may be scored as a triangle, when the distance between start point and finish point is less than 20% of the entire distance as given by the 3 turnpoints. The scoring distance will then be given by the turnpoint distance, minus the gap (finish to start) distance.
-    </p>
-    <p>
-      <strong> <strong> <br/> </strong> </strong>
     </p>
     <h2>
       4.2 Track Values
@@ -274,20 +265,13 @@ This category includes all pilots who have logged at least 1 flight over 100 km.
       Triangle conform to the FAI definition (the shortest leg of the triangle must be at least 28% of the total triangle).1 km = 1,40 p
     </p>
     <p>
-      <strong> <strong> <br/> </strong> </strong>
-    </p>
-    <p>
       The scoring rule which gives the most points will always be used. All scoring results will be rounded to 2 decimal places. For valuation of each flight will be chosen from a such tracks, whose distance exceed the minimum distance.
     </p>
     <h2>
-      
       4.3 Evaluating Flight Tracklog
     </h2>
     <p>
       After landing, the recorded tracklog should be transferred to a computer to the valid IGC file format. Once this has occurred, the IGC file should be uploaded to the XContest server to be entered in the scoring.
-    </p>
-    <p>
-      <strong> <strong> <br/> </strong> </strong>
     </p>
     <h1>
     <p>5 Competition Class, Provisional and Final results</p>
@@ -302,9 +286,6 @@ This category includes all pilots who have logged at least 1 flight over 100 km.
       5.2 Classes
     </h2>
     <p>
-      <strong> <strong> <br/> </strong> </strong>
-    </p>
-    <p>
       <strong> PG open</strong> score – best 6 flights of pilot on any paraglider (FAI-3)
     </p>
     <p>
@@ -314,13 +295,7 @@ This category includes all pilots who have logged at least 1 flight over 100 km.
       <strong>PG standard [EN A/B]</strong> score– best 6 flights of pilot on paraglider max. EN B
     </p>
     <p>
-      <strong> PG Women </strong> score  - PG open score women only
-    </p>
-    <p>
       <strong>PG TEAM</strong> - Best three flights of each individual member of the team will be used for scoring. It will be a combined score of all the team members
-    </p>
-    <p>
-      <strong> <strong> <br/> </strong> </strong>
     </p>
     <p>
       <strong> 100K + club</strong> - The category includes all pilots who have logged at least 1 flight over 100 km. Ranking is given by the number of such flights. In the case of equal number of flights over 100k the second aspect for ranking is the longest flight of pilot.
@@ -337,9 +312,7 @@ This category includes all pilots who have logged at least 1 flight over 100 km.
     <p>
       For the class "PG team" – Maximum allowed members in the team are 3. Best three flights of each individual member of the team will be used for scoring. It will be a combined score of all the team members
     </p>
-    <p>
-      <strong> <strong> <br/> </strong> </strong>
-    </p>
+
     <h2>
       5.5 Provisional Results
     </h2>
@@ -431,9 +404,6 @@ GPS failures may result in one or more breaks in the tracklog longer than 60 sec
     </p>
     <p>
       Flights with GPS failures of longer than 15 minutes or more then two separate GPS failures will not be allowed for the registering and scoring.
-    </p>
-    <p>
-      <strong> <br/> <br/> </strong>
     </p>
   </div>
 </CONTENT>
