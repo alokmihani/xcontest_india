@@ -101,10 +101,10 @@ This category includes all pilots who have logged at least 1 flight over 100 km.
     <p>
        If a pilot is found by the organizer or national administrator/s to have submitted a flight which infringes Indian Air laws, the flight will be removed from the scoring.
     </p>
-    <ol>
+    <ul>
       <li style="text-decoration: none;">
         <p>
-          Flights have to be done in <a href="http://en.wikipedia.org/wiki/Visual_flight_rules" style="text-decoration: none;"> VFR</a>.that is totally in <a href="http://en.wikipedia.org/wiki/Visual_meteorological_conditions" style="text-decoration: none;"> VMC</a>. that means no cloud flying and no night flying. In case of complaint Meteorological cloudbase will be used for that day to check flight log and data from other pilots flight for same day can be used. Some margin will be given from met cloudbase depending on situation.
+          Flights have to be done in <a href="http://en.wikipedia.org/wiki/Visual_flight_rules" style="text-decoration: none;"> <span style="color: rgb(17,85,204);text-decoration: underline;"> VFR</span></a> and is totally in <a href="http://en.wikipedia.org/wiki/Visual_meteorological_conditions" style="text-decoration: none;"> <span style="color: rgb(17,85,204);text-decoration: underline;"> VMC</span></a>. It means no cloud flying and no night flying. In case of complaint Meteorological cloudbase will be used for that day to check flight log and data from other pilots flight for same day can be used. Some margin will be given from met cloudbase depending on situation.
         </p>
       </li>
       <li style="text-decoration: none;">
@@ -127,7 +127,7 @@ This category includes all pilots who have logged at least 1 flight over 100 km.
           Any liability or personal loss arising out of flights for this online competition is pilots own responsibility.
         </p>
       </li>
-    </ol>
+    </ul>
     <h2>
       2.2 Competition Duration
     </h2>
