@@ -171,34 +171,39 @@ This category includes all pilots who have logged at least 1 flight over 100 km.
     <p>
       The XContest India [XC India] allows pilots to fly cross country without having to declare a task before take off. Documenting a flight may only be done through the use of an appropriate instrument:
     </p>
-    <p> </p>
+    <ul>
+      <li style="text-decoration: none;">
     <p>
-      a. Standalone GPS
+      Standalone GPS
     </p>
+    </li>
+    <li style="text-decoration: none;">
+      <p>
+      GPS with variometer and barograph
+    </p>
+    </li>
+    <li style="text-decoration: none;">
     <p>
-      b. GPS with variometer and barograph
+      GPS integrated flying instruments
     </p>
+    </li>
+    <li style="text-decoration: none;">
     <p>
-      c. GPS integrated flying instruments
+      Data Logger
     </p>
+    </li>
+    <li style="text-decoration: none;">
     <p>
-      d. Data Logger
+      Appropriate Smartphones with necessary applications
     </p>
-    <p>
-      e. Appropriate Smartphones with necessary applications
-    </p>
-    <p>
-      <strong> <strong> <br/> </strong> </strong>
-    </p>
+    </li>
     <p>
       All flights must be recorded in 3d.
     </p>
     <p>
       Further information on compulsory features necessary for instruments and software can be found in section 8's "Technical specifications” of these Rules.
     </p>
-    <p>
-      <strong> <strong> <br/> <br/> </strong> </strong>
-    </p>
+    </ul>
     <h2>
       3.1 IGC flight data
     </h2>
