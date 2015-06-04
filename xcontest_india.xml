@@ -49,7 +49,7 @@ This category includes all pilots who have logged at least 1 flight over 100 km.
       <p>1. General Information </p>
     </h1>
     
-    <h1 class="faq-q">
+    <h3 style="padding : 2px 5px 1px 5px;font-size : 100%;font-style: italic;border-top : 1px solid #BDD4DD;border-bottom : 1px dashed #BDD4DD;background-image: url(../img/bg-under-bar.gif);background-position: 0 0px;background-repeat: repeat-x">
      <p> 1.1 Summary </p>
     </h1>
     <p>
