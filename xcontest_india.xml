@@ -98,7 +98,7 @@ This category includes all pilots who have logged at least 1 flight over 100 km.
  ========================================================================================================= 
 -->
       <p><h3 style="line-height: 140%; padding: 2px 5px 1px 5px;font-size: 100%; font-style: italic; border-top: 1px solid #BDD4DD; border-bottom: 1px dashed #BDD4DD; background-image: url(https://cloud.githubusercontent.com/assets/12697061/8005954/f6b24b4e-0bac-11e5-8e1b-1c011f388f8a.JPG);  background-position: 0 0px;  background-repeat: repeat-x">
-      <strong>2 General Rules </strong>
+      <strong>2. General Rules </strong>
       </h3>
       </p>
     <p>
@@ -177,7 +177,7 @@ This category includes all pilots who have logged at least 1 flight over 100 km.
       ========================================================================================================= 
     -->
           <p><h3 style="line-height: 140%; padding: 2px 5px 1px 5px;font-size: 100%; font-style: italic; border-top: 1px solid #BDD4DD; border-bottom: 1px dashed #BDD4DD; background-image: url(https://cloud.githubusercontent.com/assets/12697061/8005954/f6b24b4e-0bac-11e5-8e1b-1c011f388f8a.JPG);  background-position: 0 0px;  background-repeat: repeat-x">
-      <strong>3 Flight Documentation </strong>
+      <strong>3. Flight Documentation </strong>
     </h3>
     </p>
     <p>
@@ -238,7 +238,7 @@ This category includes all pilots who have logged at least 1 flight over 100 km.
  ========================================================================================================= 
 -->
           <p><h3 style="line-height: 140%; padding: 2px 5px 1px 5px;font-size: 100%; font-style: italic; border-top: 1px solid #BDD4DD; border-bottom: 1px dashed #BDD4DD; background-image: url(https://cloud.githubusercontent.com/assets/12697061/8005954/f6b24b4e-0bac-11e5-8e1b-1c011f388f8a.JPG);  background-position: 0 0px;  background-repeat: repeat-x">
-      <strong>4 Classification </strong>
+      <strong>4. Classification </strong>
     </h3>
     </p>
     <p><strong>
@@ -293,7 +293,7 @@ This category includes all pilots who have logged at least 1 flight over 100 km.
  ========================================================================================================= 
 -->
           <p><h3 style="line-height: 140%; padding: 2px 5px 1px 5px;font-size: 100%; font-style: italic; border-top: 1px solid #BDD4DD; border-bottom: 1px dashed #BDD4DD; background-image: url(https://cloud.githubusercontent.com/assets/12697061/8005954/f6b24b4e-0bac-11e5-8e1b-1c011f388f8a.JPG);  background-position: 0 0px;  background-repeat: repeat-x">
-            <strong>5 Competition Class, Provisional and Final results</strong>
+            <strong>5. Competition Class, Provisional and Final results</strong>
     </h3>
     </p>
     <p><strong> 
@@ -354,7 +354,7 @@ This category includes all pilots who have logged at least 1 flight over 100 km.
  ========================================================================================================= 
 -->
           <p><h3 style="line-height: 140%; padding: 2px 5px 1px 5px;font-size: 100%; font-style: italic; border-top: 1px solid #BDD4DD; border-bottom: 1px dashed #BDD4DD; background-image: url(https://cloud.githubusercontent.com/assets/12697061/8005954/f6b24b4e-0bac-11e5-8e1b-1c011f388f8a.JPG);  background-position: 0 0px;  background-repeat: repeat-x">
-            <strong> 6 Liability and Disqualification </strong>
+            <strong>6. Liability and Disqualification </strong>
     </h3>
     </p>
     <p><strong>
@@ -378,7 +378,7 @@ This category includes all pilots who have logged at least 1 flight over 100 km.
     </h3>
 </p>
     <p><strong> 
-7.1. Protests due to non-acceptance of a flight
+7.1 Protests due to non-acceptance of a flight
      </strong></p>
     <p>
 Should a flight not be accepted by the organizer, then every pilot has the right to firstly register a complaint, and thereafter to enter a written protest against the decision.
@@ -389,9 +389,8 @@ Please send your complains to <span style="color: rgb(0,0,0);text-decoration: no
     <p>
 A protest must arrive no later than one week after the end of season. The jury is responsible for deciding if a protest is valid or not.
     </p>
-
     <p><strong>
-7.2. Jury
+7.2 Jury
     </strong></p>
     <p>
 The jury is formed from organizers and makes the final decisions with regard to protests. No further appeals or legal actions are permitted.
@@ -406,27 +405,23 @@ The jury is formed from organizers and makes the final decisions with regard to 
     <p>
 Every pilot is responsible for choosing his or her own recording instrument, logger or GPS. The pilot is responsible for recording a continual tracklog, correct transferral, evaluation uploading as an IGC File. Recorded tracklogs may only originate from a single instrument; tracks compiled from recordings from more than one instrument will not be accepted.
     </p>
-   
     <p>
       Should a logger split a continual flight into more than one tracklog, then the pilot should contact the manufacturer to rectify this problem. Manufacturers which certify their instruments as GNSS approved loggers(FR, flight recorder) comply with the FAI regulations.
     </p>
-
     <p><strong> 
-      8.1. GPS hardware recommendations
+      8.1 GPS hardware recommendations
     </strong></p>
     <p>
-The organizer makes no special recommendations regarding GPS hardware. Flight documentation performed viaGPS is fully equivalent to that performed with a GNSS-logger. The compatibility of a particular piece of GPS hardware is largely dependant on the supporting s oftware available for it.
+The organizer makes no special recommendations regarding GPS hardware. Flight documentation performed via GPS is fully equivalent to that performed with a GNSS-logger. The compatibility of a particular piece of GPS hardware is largely dependant on the supporting s oftware available for it.
     </p>
-
     <p><strong>
-8.2. Recording interval
+8.2 Recording interval
     </strong></p>
     <p>
 A continuously recorded tracklog must have at least one position recording per minute – i.e. the maximum recording inter v al is 60 seconds. It is recommended that the tracklog recording interval be set between 5 and 15 seconds to reduce the chance of a 60 second interval with no position recordings occurring. Should a pilot intentionally switch off the GPS during a flight, this invalidates the tracklog.
     </p>
-
     <p><strong>
-8.3. GPS failure
+8.3 GPS failure
     </strong></p>
     <p>
 GPS failures may result in one or more breaks in the tracklog longer than 60 seconds. One or two seperate GPS failures less than 15 minutes lon g within a tracklog will be accepted.
