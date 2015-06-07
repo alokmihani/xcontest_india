@@ -45,6 +45,9 @@ This category includes all pilots who have logged at least 1 flight over 100 km.
 </CONTENT>
 <CONTENT for="/india/rules/">
 <div>
+  <!--
+ ========================================================================================================= 
+-->
   <h2 style="line-height: 140%; padding: 5px;  background-color: #EBF5F6;  border-top: 1px solid #BDD4DD;  border-bottom: 1px dashed #BDD4DD;  font-size: 120%;  letter-spacing: 0.1em"><strong>XC India 2015 Competition Rules</strong></h2>
   <p><h3 style="line-height: 140%; padding: 2px 5px 1px 5px;font-size: 100%; font-style: italic; border-top: 1px solid #BDD4DD; border-bottom: 1px dashed #BDD4DD; background-image: url(https://cloud.githubusercontent.com/assets/12697061/8005954/f6b24b4e-0bac-11e5-8e1b-1c011f388f8a.JPG);  background-position: 0 0px;  background-repeat: repeat-x">
       <strong>1. General Information</strong> 
@@ -91,6 +94,9 @@ This category includes all pilots who have logged at least 1 flight over 100 km.
         </p>
       </li>
     </ol>
+      <!--
+ ========================================================================================================= 
+-->
       <p><h3 style="line-height: 140%; padding: 2px 5px 1px 5px;font-size: 100%; font-style: italic; border-top: 1px solid #BDD4DD; border-bottom: 1px dashed #BDD4DD; background-image: url(https://cloud.githubusercontent.com/assets/12697061/8005954/f6b24b4e-0bac-11e5-8e1b-1c011f388f8a.JPG);  background-position: 0 0px;  background-repeat: repeat-x">
       <strong>2 General Rules </strong>
       </h3>
@@ -167,6 +173,9 @@ This category includes all pilots who have logged at least 1 flight over 100 km.
     <p>
       Foot-launch, winch-launch
     </p>
+    <!--
+      ========================================================================================================= 
+    -->
           <p><h3 style="line-height: 140%; padding: 2px 5px 1px 5px;font-size: 100%; font-style: italic; border-top: 1px solid #BDD4DD; border-bottom: 1px dashed #BDD4DD; background-image: url(https://cloud.githubusercontent.com/assets/12697061/8005954/f6b24b4e-0bac-11e5-8e1b-1c011f388f8a.JPG);  background-position: 0 0px;  background-repeat: repeat-x">
       <strong>3 Flight Documentation </strong>
     </h3>
@@ -207,15 +216,15 @@ This category includes all pilots who have logged at least 1 flight over 100 km.
       Further information on compulsory features necessary for instruments and software can be found in section 8's "Technical specifications” of these Rules.
     </p>
     </ul>
-    <h2>
+    <p><strong>
       3.1 IGC flight data
-    </h2>
+    </strong></p>
     <p>
       Every pilot must keep a personal backup of all his / her tracklog files uploaded to the XContest server until 1 calendar month after the flight has been submitted. Once a pilot has uploaded an IGC tracklog file to the XContest server it becomes the public property
     </p>
-    <h2>
+    <p><strong> 
       3.2 Deadline of flight submission
-    </h2>
+     </strong></p>
     <p>
       Currently there is no deadline for 2015 season as long as a pilot is submitting flight during the competition duration that is 1st of Jan to 31st Dec.
     </p>
@@ -225,19 +234,22 @@ This category includes all pilots who have logged at least 1 flight over 100 km.
     <p>
       Please note if you wish your flight to be considered for the World XContest then you will have to follow their deadlines. The deadline for uploading a flight for World XContest is 14 days after day of the flight. Flights which are claimed after the deadline will be rejected for World XContest
     </p>
+<!--
+ ========================================================================================================= 
+-->
           <p><h3 style="line-height: 140%; padding: 2px 5px 1px 5px;font-size: 100%; font-style: italic; border-top: 1px solid #BDD4DD; border-bottom: 1px dashed #BDD4DD; background-image: url(https://cloud.githubusercontent.com/assets/12697061/8005954/f6b24b4e-0bac-11e5-8e1b-1c011f388f8a.JPG);  background-position: 0 0px;  background-repeat: repeat-x">
       <strong>4 Classification </strong>
     </h3>
     </p>
-    <h2>
+    <p><strong>
       4.1 Evaluation of Tracks
-    </h2>
+    </strong></p>
     <p>
       After landing, the recorded tracklog should be examined to determine the scoring distance flown. Here the start point, up to 3 turnpoints and the finish point are to be positioned on the tracklog to provide the greatest possible distance. A flight may be scored as a triangle, when the distance between start point and finish point is less than 20% of the entire distance as given by the 3 turnpoints. The scoring distance will then be given by the turnpoint distance, minus the gap (finish to start) distance.
     </p>
-    <h2>
+    <p><strong> 
       4.2 Track Values
-    </h2>
+    </strong></p>
     <ul>
       <li style="text-decoration: none;">
         <p>
@@ -271,25 +283,28 @@ This category includes all pilots who have logged at least 1 flight over 100 km.
     <p>
       The scoring rule which gives the most points will always be used. All scoring results will be rounded to 2 decimal places. For valuation of each flight will be chosen from a such tracks, whose distance exceed the minimum distance.
     </p>
-    <h2>
+    <p><strong> 
       4.3 Evaluating Flight Tracklog
-    </h2>
+    </strong></p>
     <p>
       After landing, the recorded tracklog should be transferred to a computer to the valid IGC file format. Once this has occurred, the IGC file should be uploaded to the XContest server to be entered in the scoring.
     </p>
+    <!--
+ ========================================================================================================= 
+-->
           <p><h3 style="line-height: 140%; padding: 2px 5px 1px 5px;font-size: 100%; font-style: italic; border-top: 1px solid #BDD4DD; border-bottom: 1px dashed #BDD4DD; background-image: url(https://cloud.githubusercontent.com/assets/12697061/8005954/f6b24b4e-0bac-11e5-8e1b-1c011f388f8a.JPG);  background-position: 0 0px;  background-repeat: repeat-x">
             <strong>5 Competition Class, Provisional and Final results</strong>
     </h3>
     </p>
-    <h2>
+    <p><strong> 
       5.1 No of flights that count for final score
-    </h2>
+    </strong></p>
     <p>
       ">A pilot may register as many flights as he or she may wish; but the final score will calculate only 2 best flights from a site (50 km radius). Maximum 6 flights will be taken for the final score. This means a pilot must attempt to fly atleast 3 sites ( one site is atleast 50kms apart from other )to maximize the score.
     </p>
-    <h2>
+    <p><strong> 
       5.2 Classes
-    </h2>
+    </strong></p>
     <p>
       <strong> PG open</strong> score – best 6 flights of pilot on any paraglider (FAI-3)
     </p>
@@ -305,62 +320,66 @@ This category includes all pilots who have logged at least 1 flight over 100 km.
     <p>
       <strong> 100K + club</strong> - The category includes all pilots who have logged at least 1 flight over 100 km. Ranking is given by the number of such flights. In the case of equal number of flights over 100k the second aspect for ranking is the longest flight of pilot.
     </p>
-    <h2>
+    <p><strong>
       5.3 Multiple ratings
-    </h2>
+    </strong></p>
     <p>
       On the basis of submitted Flights automatically the respective rating classes are added. Flights with low classified paragliders are also counted in the higher rating classes. (Eg a flight with an EN-B screen is also seen in the  "PG Sport" and "PG Open".) 
     </p>
-    <h2>
+    <p><strong> 
       5.4 Team Classification
-    </h2>
+    </strong></p>
     <p>
       For the class "PG team" – Maximum allowed members in the team are 3. Best three flights of each individual member of the team will be used for scoring. It will be a combined score of all the team members
     </p>
-
-    <h2>
+    <p><strong> 
       5.5 Provisional Results
-    </h2>
+    </strong></p>
     <p>
       Provisional results will be constantly updated and may be viewed on <a href="http://www.xcontest.org/india" style="text-decoration: none;"> <span style="color: rgb(17,85,204);text-decoration: underline;">http://www.xcontest.org/india</span> </a>
     </p>
-    <h2>
+    <p><strong> 
       5.6 Final Results
-    </h2>
+    </strong></p>
     <p>
       Final results are valid once the protest deadline has been reached. Final results may also be viewed under <a href="http://www.xcontest.org/india" style="text-decoration: none;"> <span style="color: rgb(17,85,204);text-decoration: underline;">http://www.xcontest.org/india</span> </a>
     </p>
-    <h2>
+    <p><strong>
       5.7 Prizes
-    </h2>
+    </strong></p>
     <p>
       This section will be updated at the end.
     </p>
+    <!--
+ ========================================================================================================= 
+-->
           <p><h3 style="line-height: 140%; padding: 2px 5px 1px 5px;font-size: 100%; font-style: italic; border-top: 1px solid #BDD4DD; border-bottom: 1px dashed #BDD4DD; background-image: url(https://cloud.githubusercontent.com/assets/12697061/8005954/f6b24b4e-0bac-11e5-8e1b-1c011f388f8a.JPG);  background-position: 0 0px;  background-repeat: repeat-x">
             <strong> 6 Liability and Disqualification </strong>
     </h3>
     </p>
-    <h2>
+    <p><strong>
       6.1 Liability
-    </h2>
+    </strong></p>
     <p>
       The organisers accept no liability for damages to competitors or third parties.
     </p>
-    <h2>
+    <p><strong>
       6.2 Disqualification
-    </h2>
+    </strong></p>
     <p>
       Competitors who wilfully make false flight claims or fail to comply with these regulations in order to benefit themselves in the scoring, or who give good cause for belief that this is so, can be disqualified from the competition. 
       Kindly pay attention while entering the class of glider
     </p>
-    
+    <!--
+ ========================================================================================================= 
+-->
       <p><h3 style="line-height: 140%; padding: 2px 5px 1px 5px;font-size: 100%; font-style: italic; border-top: 1px solid #BDD4DD; border-bottom: 1px dashed #BDD4DD; background-image: url(https://cloud.githubusercontent.com/assets/12697061/8005954/f6b24b4e-0bac-11e5-8e1b-1c011f388f8a.JPG);  background-position: 0 0px;  background-repeat: repeat-x">
 <strong>7. Protests</strong>
     </h3>
 </p>
-    <h2>
+    <p><strong> 
 7.1. Protests due to non-acceptance of a flight
-    </h2>
+     </strong></p>
     <p>
 Should a flight not be accepted by the organizer, then every pilot has the right to firstly register a complaint, and thereafter to enter a written protest against the decision.
     </p>
@@ -371,12 +390,15 @@ Please send your complains to <span style="color: rgb(0,0,0);text-decoration: no
 A protest must arrive no later than one week after the end of season. The jury is responsible for deciding if a protest is valid or not.
     </p>
 
-    <h2>
+    <p><strong>
 7.2. Jury
-    </h2>
+    </strong></p>
     <p>
 The jury is formed from organizers and makes the final decisions with regard to protests. No further appeals or legal actions are permitted.
     </p>
+    <!--
+ ========================================================================================================= 
+-->
           <p><h3 style="line-height: 140%; padding: 2px 5px 1px 5px;font-size: 100%; font-style: italic; border-top: 1px solid #BDD4DD; border-bottom: 1px dashed #BDD4DD; background-image: url(https://cloud.githubusercontent.com/assets/12697061/8005954/f6b24b4e-0bac-11e5-8e1b-1c011f388f8a.JPG);  background-position: 0 0px;  background-repeat: repeat-x">
 <strong>8. Technical Specification</strong>
     </h3>
@@ -389,23 +411,23 @@ Every pilot is responsible for choosing his or her own recording instrument, log
       Should a logger split a continual flight into more than one tracklog, then the pilot should contact the manufacturer to rectify this problem. Manufacturers which certify their instruments as GNSS approved loggers(FR, flight recorder) comply with the FAI regulations.
     </p>
 
-    <h2>
+    <p><strong> 
       8.1. GPS hardware recommendations
-    </h2>
+    </strong></p>
     <p>
 The organizer makes no special recommendations regarding GPS hardware. Flight documentation performed viaGPS is fully equivalent to that performed with a GNSS-logger. The compatibility of a particular piece of GPS hardware is largely dependant on the supporting s oftware available for it.
     </p>
 
-    <h2>
+    <p><strong>
 8.2. Recording interval
-    </h2>
+    </strong></p>
     <p>
 A continuously recorded tracklog must have at least one position recording per minute – i.e. the maximum recording inter v al is 60 seconds. It is recommended that the tracklog recording interval be set between 5 and 15 seconds to reduce the chance of a 60 second interval with no position recordings occurring. Should a pilot intentionally switch off the GPS during a flight, this invalidates the tracklog.
     </p>
 
-    <h2>
+    <p><strong>
 8.3. GPS failure
-    </h2>
+    </strong></p>
     <p>
 GPS failures may result in one or more breaks in the tracklog longer than 60 seconds. One or two seperate GPS failures less than 15 minutes lon g within a tracklog will be accepted.
     </p>
