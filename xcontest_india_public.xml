@@ -9,9 +9,15 @@ Dear Pilot,
 Welcome to the Home Page of <strong>XC India 2015</strong>, an online XC contest. The XContest India [XC INDIA] is a competition in which all pilots regardless of flight experience and age are given the opportunity to evaluate their flights and to compare them with others.The idea is to connect all pilots (serious cross country pilots or recreational pilots) according to their time and financial possibilities.It is the pleasure of flying that connects all the participants.
 If you’d like to participate in this contest, you have to claim your flights on this site <a href="http://www.xcontest.org/india/" style="text-decoration: none;"> <span style="color: rgb(17,85,204);text-decoration: underline;">XContest.org/india/</span> </a>.
 
-<table border="0" class="table-invisible" style="margin-top: 15px; border: 1px solid rgb(218, 218, 218);"><tbody><tr>
-<td><p><strong>XC INDIA </strong>Contest on <strong>Facebook</strong>:</p></td>
-<td style="padding-top: 5px;"><iframe frameborder="0" allowtransparency="true" style="border: medium none; overflow: hidden; width: 400px; height: 35px;" scrolling="no" src="//www.facebook.com/plugins/like.php?href=https://facebook.com/indianxc;width=400;layout=standard;action=like;show_faces=false;share=false;height=35"></iframe></td></tr></tbody></table>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-like" data-href="https://www.facebook.com/indianxc" data-width="400" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 
 <!--
  ========================================================================================================= 
