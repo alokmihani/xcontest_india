@@ -140,11 +140,13 @@ This category includes all pilots who have logged at least 1 flight over 100 km.
           Flights have to be done in <a href="http://en.wikipedia.org/wiki/Visual_flight_rules" style="text-decoration: none;"> <span style="color: rgb(17,85,204);text-decoration: underline;"> VFR</span></a> and is totally in <a href="http://en.wikipedia.org/wiki/Visual_meteorological_conditions" style="text-decoration: none;"> <span style="color: rgb(17,85,204);text-decoration: underline;"> VMC</span></a>. It means no cloud flying and no night flying. In case of complaint Meteorological cloudbase will be used for that day to check flight log and data from other pilots flight for same day can be used. Some margin will be given from met cloudbase depending on situation.
         </p>
       </li>
+      <!--
       <li style="text-decoration: none;">
         <p>
           Flights have to be unassisted. Guided flights will not be counted.
         </p>
       </li>
+      -->
       <li style="text-decoration: none;">
         <p>
           Its pilot's responsibility to make himself aware of airspace restriction in his area and to avoid any restricted airspace.
